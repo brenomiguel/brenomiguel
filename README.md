@@ -34,3 +34,5 @@
   ![brenomiguel's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=brenomiguel&hide_border=true&theme=github-light)
  
 </div>
+
+![Snake animation](https://github.com/brenomiguel/brenomiguel/blob/output/github-contribution-grid-snake.svg)

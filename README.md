@@ -2,7 +2,7 @@
 <br>
 
 <div>
-  <img width="800px" src="https://github.com/brenomiguel/personalizar/blob/main/cuphead.gif">
+  <img width="250px" src="https://github.com/brenomiguel/personalizar/blob/main/cuphead.gif">
 </div>
 
 <br>
